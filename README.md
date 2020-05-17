@@ -1,5 +1,4 @@
 # Information on COVID-19 Cases in India by State
-by: Xinyu Chang, Siqi Cheng, Tiara Januar & Audrey Kho
 ## View Data Visualizations on:
 * [Patient Case Status](https://app.powerbi.com/view?r=eyJrIjoiNzk2ODczY2YtOGM1OC00M2JkLWE2MjktYjlmZGZmZDZmZTFjIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9)
 * [Patient Nationality & Demographics](https://app.powerbi.com/view?r=eyJrIjoiYjdjMzc4YjQtOThjMC00ZThhLTlkYWUtMTc4YTA5NGUwNTU1IiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9)
